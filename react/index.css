@@ -1,0 +1,18 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+.H{
+    color:Red;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    list-style: none;
+    display:flex;
+}
+li{
+    padding:20px;
+}
